@@ -76,7 +76,7 @@
     "*://*.teamwork.com/*",
     "*://*.teamworkpm.net/*",
     "*://*.habitica.com/*",
-    "*://*.taiga.io/*",
+    "*://*.taiga.wonderbits.net/*",
     "*://*.axosoft.com/*",
     "*://*.ongemini.com/*",
     "*://*.drupal.org/*",
@@ -176,7 +176,7 @@
         "*://*.teamworkpm.net/*",
         "*://mail.google.com/*",
         "*://*.habitica.com/*",
-        "*://*.taiga.io/*",
+        "*://*taiga.wonderbits.net/*",
         "*://*.axosoft.com/*",
         "*://*.ongemini.com/*",
         "*://*.drupal.org/*",
@@ -390,7 +390,7 @@
       "js": ["scripts/content/habitrpg.js"]
     },
     {
-      "matches": ["*://*.taiga.io/*"],
+      "matches": ["*://*taiga.wonderbits.net/*"],
       "js": ["scripts/content/taiga.js"]
     },
     {
